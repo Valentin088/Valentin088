@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis actuellement étudiant en 2ème année de BUT Informatique à l'IUT de Saint-Dié.<br>Adore le développement web/fullstack.<br>Développeur du site https://ameetlithotherapie.com/
+Je suis actuellement étudiant en 3ème année de BUT Informatique à l'IUT de Saint-Dié.<br>Adore le développement web/fullstack.<br>Développeur du site https://ameetlithotherapie.com/
 
 
 ## 🌐 Socials:
